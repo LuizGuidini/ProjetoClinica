@@ -128,7 +128,7 @@ Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classe
 ## Interagindo com a Aplicação
 A aplicação será executada no console do IntelliJ IDEA e será apresentado um Menu com as seguintes opções:
 
-  - **`Opção 1-Registrar Animal:`** Ao escolher Registrar Animal você foenecerá os dados do pet.
+  - **`Opção 1-Registrar Animal:`** Ao escolher Registrar Animal você fornecerá os dados do pet.
   - **`Opção 2-Remover Animal:`** Ao seloecionar Remover Animal, você removera os dados do pet do sistema.
   - **`Opção 3-Listar Animais:`** Ao escolher Listar Animais, o sistema mostrará na tela os dados dos animais cadastrados.
   - **`Opção 4-Adicionar Histórico Médico:`** Com esta opção o usuário tem pode adicionar um histórico médico ao animal cadastrado.
