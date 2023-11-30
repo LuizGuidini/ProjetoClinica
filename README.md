@@ -66,6 +66,10 @@ Conforme a proposta anterior, obtivemos o seguinte resultado:
 
 ## Adicionais e Boas Práticas
 Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classes e boas práticas etc etc etc
+
+Após análise do sistema, vimos a necessidade de adicionar a classe de Histórico Médico, para ter um melhor gerenciamento das consultas médicas e facilitando 
+ao veterinário melhor percepçao do histórico de saíde do animal.
+
 1. **Classe Histórico Médico:**
 
 
