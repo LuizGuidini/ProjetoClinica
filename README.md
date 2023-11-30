@@ -99,7 +99,7 @@ Ao decorrer do desenvolvimento sentimos a necessidade de adicionar outras classe
 ## Como baixar e instalar o sistema⬇️
 
 1. **Baixe o Código do Repositório GitHub** 
-  - Abra o navegador e acesse o repositório no GitHub: [https://github.com/LuizGuidini/ProjetoClinica/tree/main/ClinicaVeterinaria]
+  - Abra o navegador e acesse o repositório no GitHub: [https://github.com/LuizGuidini/ProjetoClinica]
   - Clique no botão verde "Code" e selecione a opção "Download ZIP".
   - Após o download, extraia o conteúdo do arquivo ZIP para o diretório desejado no seu computador.
 
